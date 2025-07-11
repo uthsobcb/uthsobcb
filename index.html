@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Breathing Circle Animation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Breathing Circle Animation</h1>
+        <div class="breathing-circle-container">
+            <div class="breathing-circle">
+                <div class="circle-fill"></div>
+                <div class="circle-outline"></div>
+            </div>
+            <div class="stage-info">
+                <div class="current-stage">Inhale</div>
+                <div class="progress-info">Progress: 0%</div>
+            </div>
+        </div>
+        <div class="controls">
+            <button id="startBtn">Start</button>
+            <button id="pauseBtn">Pause</button>
+            <button id="resetBtn">Reset</button>
+        </div>
+        <div class="stage-description">
+            <p>The breathing circle animation follows these stages:</p>
+            <ul>
+                <li><strong>Inhale:</strong> Circle fills completely (0% to 100%)</li>
+                <li><strong>Hold after inhale:</strong> Circle stays completely filled (100%)</li>
+                <li><strong>Exhale:</strong> Circle empties completely (100% to 0%)</li>
+                <li><strong>Hold after exhale:</strong> Circle stays completely empty (0%)</li>
+            </ul>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
