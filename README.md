@@ -8,8 +8,8 @@ I’m a developer who enjoys turning ideas into functional, well-designed web pr
 
 - 📖 [Fiftheye AI](https://www.fiftheyeai.com/) - AI Based Exam script grader
 - ☁️ [Echo](https://www.my-echo.space/) - Intelligent journaling companion and space to Track moods.
-- ☁️📱 [Echo APP](https://www.my-echo.space/) - Echo App built on React Native comming soon.
-- 📜 [Web Chronicle](https://wc.uthsob.me/) - Browser extension that organize and newsletter that keep you synced (coming soon)
+- ☁️📱 [Echo APP](https://echo-next.vercel.app/) - Echo App built on React Native comming soon.
+- 📜 [Web Chronicle](https://wc.uthsob.me/) - Browser extension that organize tabs by category and send newsletter that keep you synced.
 
 ### Low level Stuff
 - 📀 [NO OS](https://github.com/uthsobcb/NoOS) - an x86 operating system (failed)
