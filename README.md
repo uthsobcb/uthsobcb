@@ -6,9 +6,9 @@ I’m a developer who enjoys turning ideas into functional, well-designed web pr
 
 ### Current Projects
 
-- 📖 [Fiftheye AI](https://www.fiftheyeai.com/) - AI Based Exam script grader
+- 📖 [Zachai](https://www.zachai.co/) - AI Based Exam script grader
 - ☁️ [Echo](https://www.echojournal.life/) - Intelligent journaling companion and space to Track moods.
-- ☁️📱 [Echo APP](https://echo-next.vercel.app/) - Echo App built on React Native comming soon.
+- ☁️📱 [Echo APP](https://github.com/uthsobcb/echo-app) - Echo App built on React Native open source.
 - 📜 [Web Chronicle](https://wc.uthsob.dev/) - Browser extension that organize tabs by category and send newsletter that keep you synced.
 
 ### Low level Stuff
